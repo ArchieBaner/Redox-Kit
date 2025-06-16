@@ -1,0 +1,26 @@
+
+Unbalanced reaction:
+12Cr2O7^2- + 5SO3^2- = Cr^3+ + SO4^2-
+
+Balanced Half Reactions with Electrons:
+12Cr2O7^2- + 168H^+ + 72e^- -> 24Cr^3+ + 84H2O | Cr ox state change: -3 | Type: reduction
+5SO3^2- + 5H2O -> 5SO4^2- + 10H^+ + 10e^- | S ox state change: 2 | Type: oxidation
+
+Final Balanced Reaction:
+Cr2O7^2- + 8H^+ + 3SO3^2- = 2Cr^3+ + 4H2O + 3SO4^2-
+
+-----------------------------------------------------------------------------------------
+
+Unbalanced reaction:
+4NO3^1- + 6I^1- = NO^0 + I2^0
+
+Balanced Half Reactions with Electrons:
+4NO3^1- + 16H^+ + 12e^- -> 4NO^0 + 8H2O | N ox state change: -3 | Type: reduction
+6I^1- -> 3I2^0 + 6e^- | I ox state change: 1 | Type: oxidation
+
+Final Balanced Reaction:
+2NO3^1- + 8H^+ + 6I^1- = 2NO^0 + 4H2O + 3I2^0
+
+-----------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,8 @@
+Reaction:
+ Cr2O7^2- + 3SO3^2- = 2Cr^3+ + 3SO4^2-
+
+Half-Reactions:
+Cr2O7^2- (Cr: 6) + 3e⁻ → 2Cr^3+ (Cr: 3)   [Reduction]
+3SO3^2- (S: 4) → 3SO4^2- (S: 6) + 2e⁻   [Oxidation]
+
+-----------------------------------------------------

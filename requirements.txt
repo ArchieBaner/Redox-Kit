@@ -1,0 +1,10 @@
+# RedoxToolkit dependencies
+# This project uses only standard Python 3.x libraries:
+# - re
+# - itertools
+# - math
+# - collections
+
+All dependencies are part of the Python standard library — no additional installation is needed.
+
+

@@ -1,0 +1,23 @@
+Input reaction:
+4NO3^1- + 6I^1- = NO + I2
+
+Output:
+Reactant Oxidation States: {'N': 5, 'O': -2, 'I': -1}
+Product Oxidation States: {'N': 2, 'O': -2, 'I': 0}
+Redox Changes:
+N: 5 -> 2 (Oxidation)
+I: -1 -> 0 (Reduction)
+
+------------------------------------------------------
+
+Input reaction:
+12Cr2O7^2- + 5SO3^2- = Cr^3+ + SO4^2-
+
+Output:
+Reactant Oxidation States: {'Cr': 6, 'O': -2, 'S': 4}
+Product Oxidation States: {'Cr': 3, 'S': 6, 'O': -2}
+Redox Changes:
+Cr: 6 -> 3 (Oxidation)
+S: 4 -> 6 (Reduction)
+
+-------------------------------------------------------

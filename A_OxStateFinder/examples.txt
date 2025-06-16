@@ -1,0 +1,18 @@
+
+Parsing chemical: 
+  MnO4^1-
+
+Oxidation States:
+  Mn: 7
+  O: -2
+
+------------------
+
+Parsing chemical: 
+  SO4^2-
+
+Oxidation States:
+  S: 6
+  O: -2
+
+------------------
